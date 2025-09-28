@@ -18,9 +18,9 @@
 ## 🧩 Glossário 
 
 <details>
-  <summary>🐍 #3424 - Achando os Monótonos Não-Triviais Maximais</summary>
+  <summary>#3424 - Achando os Monótonos Não-Triviais Maximais</summary>
   
   - [📄 Código em Python](exercicios/3424.py)  
-  - [📝 Explicação]()  
+  - [📺 Explicação]()  
 
 </details>
