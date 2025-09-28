@@ -6,4 +6,4 @@
 
 # 🌐 Glossário
 
-[#3424 - Achando os Monótonos Não-Triviais Maximais]()
+[#3424 - Achando os Monótonos Não-Triviais Maximais](exercicios/3424.py)
